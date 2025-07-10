@@ -90,7 +90,7 @@ take a look at examples-test\test.py for how this can be used in code. for power
 
 ### local setup
 a script will be added shortly to do this so no need to be typing or switching screens. but for now, do this:
-- git clone https://github.com/DOI-DO/struct-docu-intel-oai.git
+- git clone https://github.com/andyogah/struct-docu-intel-preprocessing
 - cd .\text-extraction-func
 - python -m venv .venv
 - .venv\Scripts\activate
