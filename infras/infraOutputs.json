@@ -1,0 +1,30 @@
+﻿{
+    "aiInfo":  {
+                   "type":  "Object",
+                   "value":  {
+                                 "endpoint":  "https://aisa-ak2jwe6lyhhme.cognitiveservices.azure.com/",
+                                 "id":  "/subscriptions/7c5cf452-ad9e-4f7b-ae80-a4794ff98b29/resourceGroups/rg-tes123/providers/Microsoft.CognitiveServices/accounts/aisa-ak2jwe6lyhhme",
+                                 "modelDeploymentName":  "gpt-4o",
+                                 "name":  "aisa-ak2jwe6lyhhme",
+                                 "resourceGroup":  "rg-tes123"
+                             }
+               },
+    "documentIntelligenceInfo":  {
+                                     "type":  "Object",
+                                     "value":  {
+                                                   "endpoint":  "https://di-ak2jwe6lyhhme.cognitiveservices.azure.com/",
+                                                   "host":  "di-ak2jwe6lyhhme.cognitiveservices.azure.com",
+                                                   "id":  "/subscriptions/7c5cf452-ad9e-4f7b-ae80-a4794ff98b29/resourceGroups/rg-tes123/providers/Microsoft.CognitiveServices/accounts/di-ak2jwe6lyhhme",
+                                                   "name":  "di-ak2jwe6lyhhme",
+                                                   "resourceGroup":  "rg-tes123"
+                                               }
+                                 },
+    "resourceGroupInfo":  {
+                              "type":  "Object",
+                              "value":  {
+                                            "id":  "/subscriptions/7c5cf452-ad9e-4f7b-ae80-a4794ff98b29/resourceGroups/rg-tes123",
+                                            "location":  "eastus",
+                                            "name":  "rg-tes123"
+                                        }
+                          }
+}
