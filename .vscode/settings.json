@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${env:LOCALAPPDATA}\\repo-venvs\\struct-docu-intel-preprocessing\\Scripts\\python.exe"
+}
