@@ -1,0 +1,12 @@
+# Generated 2026-08-15 from a scan of imports across the repo.
+azure-ai-formrecognizer
+azure-core
+azure-functions
+azure-identity
+numpy
+openai
+opencv-python
+pillow
+PyMuPDF
+python-dotenv
+requests
